@@ -10,7 +10,7 @@
 
 | 編號 | 功能主題 | 說明 | 對應資料夾 |
 |------|----------|------|-------------|
-| 01 | 多事件綁定與卡片渲染 | 使用 `<template>` + `cloneNode` 動態產生元素並綁定事件 | [01-loop-event-binding](./01-loop-event-binding) |
+| 01 | 多事件綁定與卡片渲染 | 使用 `<template>` + `cloneNode` 動態產生元素並綁定事件 | [multi-event-binding](./js_bootstrap_practice-lab/multi-event-binding) |
 
 
 
