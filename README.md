@@ -11,7 +11,6 @@
 | 編號 | 功能主題 | 說明 | 對應資料夾 |
 |------|----------|------|-------------|
 | 01 | 多事件綁定與卡片渲染 | 使用 `<template>` + `cloneNode` 動態產生元素並綁定事件 | [multi-event-binding](./js_bootstrap_practice-lab/multi-event-binding) |
-|------|----------|------|-------------|
 | 02 | 登入畫面的帳號密碼fetch取得並傳給後端處理 | 使用async await和dom操作資料  | [Login-interface](./js_bootstrap_practice-lab/Login-interface) |
 
 ---
