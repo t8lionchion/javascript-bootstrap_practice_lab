@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "pname": "GIGABYTE 技嘉16吋電競筆電 黑",
+        "price": 25000,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1749878834.webp",
+        "description": [
+            "搭載 NVIDIA GeForce RTX 4060 獨立顯示晶片",
+            "第13代 Intel® Core™ i7-13700H 核心處理器",
+            "16.0“ 16:10 WUXGA (1920x1200)"
+        ]
+    },
+    {
+        "id": 2,
+        "pname": "ASUS TUF Gaming A15電競筆電",
+        "price": 31399,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1750037739.webp",
+        "description": [
+            "NVIDIA® GeForce RTX™ 4060 8GB GDDR6 (具備MUX獨顯直連",
+            "AMD Ryzen™ 5 7535HS Processor 3.3GHz",
+            "16GB DDR5-4800 "
+        ]
+    },
+    {
+        "id": 3,
+        "pname": "ASUS ROG Strix G16 16吋電競筆電",
+        "price": 57999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1746696490.webp",
+        "description": [
+            "AMD DRAGON RANGE HX 16C",
+            "NVIDIA® GeForce RTX™ 5070 Ti Laptop GPU 12GB GDDR7",
+            "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+        ]
+    },
+    {
+        "id": 4,
+        "pname": "ACER Aspire Lite 15.6吋效能筆電",
+        "price": 15900,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1742973915.webp",
+        "description": [
+            "AMD Ryzen™ 5 7430U / Copilot key",
+            "獨立數字鍵 / 連接埠齊全",
+            "15.6吋大尺寸IPS螢幕 / 可180度攤平"
+        ]
+    }
+]
