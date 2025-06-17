@@ -12,7 +12,7 @@
 |------|----------|------|-------------|
 | 01 | 多事件綁定與卡片渲染 | 使用 `<template>` + `cloneNode` 動態產生元素並綁定事件 | [multi-event-binding](./js_bootstrap_practice-lab/multi-event-binding) |
 | 02 | 登入畫面的帳號密碼fetch取得並傳給後端處理 | 使用async await和dom操作資料  | [Login-interface](./js_bootstrap_practice-lab/Login-interface) |
-| 03 | fetch取得商品資訊並讓前台渲染商品畫面 | 使用async await和dom操作資料  | [async_await_render_production](./js_bootstrap_practice-lab/async_await_render_production) |
+| 03 | fetch取得商品資訊並讓前台渲染商品畫面+頁碼換頁功能 | 使用async await和dom操作資料並同時讓頁碼進行事件綁定渲染對應頁碼的商品陣列  | [async_await_render_production](./js_bootstrap_practice-lab/async_await_render_production) |
 ---
 
 ## 🧠 開發目標
