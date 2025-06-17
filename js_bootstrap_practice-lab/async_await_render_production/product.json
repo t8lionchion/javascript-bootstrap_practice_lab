@@ -42,5 +42,236 @@
             "獨立數字鍵 / 連接埠齊全",
             "15.6吋大尺寸IPS螢幕 / 可180度攤平"
         ]
+    },
+    {
+        "id": 5,
+        "pname": "ASUS ROG 華碩14吋電競筆電 白",
+        "price": 85999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741053138.webp",
+        "description": [
+            "AMD Ryzen™ AI 9 HX 370 Processor 2.0GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti Laptop GPU 12GB GDDR7",
+            "1TB PCIe® 4.0 NVMe™ M.2 SSD/OLED"
+        ]
+    },
+    {
+        "id": 6,
+        "pname": "MSI 微星Cyborg 14吋 電競筆電黑色",
+        "price": 30618,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1748940310.webp",
+        "description": [
+            "搭載 Intel® Core™ i7-13620H 處理器",
+            "GeForce RTX™ 4060 筆記型電腦 ",
+            " 144Hz更新率, 100% sRGB, IPS電競等級面板"
+        ]
+    },
+    {
+        "id": 7,
+        "pname": "ASUS ROG 華碩Strix G16 16吋電競筆電",
+        "price": 77999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741052838.webp",
+        "description": [
+            "Intel® Core™ Ultra 9 Processor 275HX 2.7 GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti ",
+            "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+        ]
+    },
+    {
+        "id": 8,
+        "pname": "ASUS ROG 華碩Zephyrus G16 16吋電競筆電 白",
+        "price": 95999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741053616.webp",
+        "description": [
+            "Intel® Core™ Ultra 9 Processor 285H 2.9 GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti ",
+            "1TB PCIe® 4.0 NVMe™ M.2  SSD"
+        ]
+    },
+    {
+        "id": 9,
+        "pname": "ASUS ROG 華碩Strix G18 18吋電競筆電黑色",
+        "price": 79999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741053046.webp",
+        "description": [
+            "Intel® Core™ Ultra 9 Processor 275HX 2.7 GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti Laptop GPU 12GB GDDR7",
+            "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+        ]
+    },
+    {
+        "id": 10,
+        "pname": "GIGABYTE 技嘉16吋電競筆電 黑",
+        "price": 25000,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1749878834.webp",
+        "description": [
+            "搭載 NVIDIA GeForce RTX 4060 獨立顯示晶片",
+            "第13代 Intel® Core™ i7-13700H 核心處理器",
+            "16.0“ 16:10 WUXGA (1920x1200)"
+        ]
+    },
+    {
+        "id": 11,
+        "pname": "ASUS TUF Gaming A15電競筆電",
+        "price": 31399,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1750037739.webp",
+        "description": [
+            "NVIDIA® GeForce RTX™ 4060 8GB GDDR6 (具備MUX獨顯直連",
+            "AMD Ryzen™ 5 7535HS Processor 3.3GHz",
+            "16GB DDR5-4800 "
+        ]
+    },
+    {
+        "id": 12,
+        "pname": "ASUS ROG Strix G16 16吋電競筆電",
+        "price": 57999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1746696490.webp",
+        "description": [
+            "AMD DRAGON RANGE HX 16C",
+            "NVIDIA® GeForce RTX™ 5070 Ti Laptop GPU 12GB GDDR7",
+            "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+        ]
+    },
+    {
+        "id": 13,
+        "pname": "ACER Aspire Lite 15.6吋效能筆電",
+        "price": 15900,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1742973915.webp",
+        "description": [
+            "AMD Ryzen™ 5 7430U / Copilot key",
+            "獨立數字鍵 / 連接埠齊全",
+            "15.6吋大尺寸IPS螢幕 / 可180度攤平"
+        ]
+    },
+    {
+        "id": 14,
+        "pname": "ASUS ROG 華碩14吋電競筆電 白",
+        "price": 85999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741053138.webp",
+        "description": [
+            "AMD Ryzen™ AI 9 HX 370 Processor 2.0GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti Laptop GPU 12GB GDDR7",
+            "1TB PCIe® 4.0 NVMe™ M.2 SSD/OLED"
+        ]
+    },
+    {
+        "id": 15,
+        "pname": "MSI 微星Cyborg 14吋 電競筆電黑色",
+        "price": 30618,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1748940310.webp",
+        "description": [
+            "搭載 Intel® Core™ i7-13620H 處理器",
+            "GeForce RTX™ 4060 筆記型電腦 ",
+            " 144Hz更新率, 100% sRGB, IPS電競等級面板"
+        ]
+    },
+    {
+        "id": 16,
+        "pname": "ASUS ROG 華碩Strix G16 16吋電競筆電",
+        "price": 77999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741052838.webp",
+        "description": [
+            "Intel® Core™ Ultra 9 Processor 275HX 2.7 GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti ",
+            "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+        ]
+    },
+    {
+        "id": 17,
+        "pname": "ASUS ROG 華碩Zephyrus G16 16吋電競筆電 白",
+        "price": 95999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741053616.webp",
+        "description": [
+            "Intel® Core™ Ultra 9 Processor 285H 2.9 GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti ",
+            "1TB PCIe® 4.0 NVMe™ M.2  SSD"
+        ]
+    },
+    {
+        "id": 18,
+        "pname": "ASUS ROG 華碩Strix G18 18吋電競筆電黑色",
+        "price": 79999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741053046.webp",
+        "description": [
+            "Intel® Core™ Ultra 9 Processor 275HX 2.7 GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti Laptop GPU 12GB GDDR7",
+            "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+        ]
+    },
+    {
+        "id": 19,
+        "pname": "ASUS ROG 華碩14吋電競筆電 白",
+        "price": 85999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741053138.webp",
+        "description": [
+            "AMD Ryzen™ AI 9 HX 370 Processor 2.0GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti Laptop GPU 12GB GDDR7",
+            "1TB PCIe® 4.0 NVMe™ M.2 SSD/OLED"
+        ]
+    },
+    {
+        "id": 20,
+        "pname": "MSI 微星Cyborg 14吋 電競筆電黑色",
+        "price": 30618,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1748940310.webp",
+        "description": [
+            "搭載 Intel® Core™ i7-13620H 處理器",
+            "GeForce RTX™ 4060 筆記型電腦 ",
+            " 144Hz更新率, 100% sRGB, IPS電競等級面板"
+        ]
+    },
+    {
+        "id": 21,
+        "pname": "ASUS ROG 華碩Strix G16 16吋電競筆電",
+        "price": 77999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741052838.webp",
+        "description": [
+            "Intel® Core™ Ultra 9 Processor 275HX 2.7 GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti ",
+            "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+        ]
+    },
+    {
+        "id": 22,
+        "pname": "ASUS ROG 華碩Zephyrus G16 16吋電競筆電 白",
+        "price": 95999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741053616.webp",
+        "description": [
+            "Intel® Core™ Ultra 9 Processor 285H 2.9 GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti ",
+            "1TB PCIe® 4.0 NVMe™ M.2  SSD"
+        ]
+    },
+    {
+        "id": 23,
+        "pname": "ASUS ROG 華碩Strix G18 18吋電競筆電黑色",
+        "price": 79999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741053046.webp",
+        "description": [
+            "Intel® Core™ Ultra 9 Processor 275HX 2.7 GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti Laptop GPU 12GB GDDR7",
+            "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+        ]
+    },
+    {
+        "id": 24,
+        "pname": "ASUS ROG 華碩Zephyrus G16 16吋電競筆電 白",
+        "price": 95999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741053616.webp",
+        "description": [
+            "Intel® Core™ Ultra 9 Processor 285H 2.9 GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti ",
+            "1TB PCIe® 4.0 NVMe™ M.2  SSD"
+        ]
+    },
+    {
+        "id": 25,
+        "pname": "ASUS ROG 華碩Strix G18 18吋電競筆電黑色",
+        "price": 79999,
+        "image": "/js_bootstrap_practice-lab/async_await_render_production/img/000001_1741053046.webp",
+        "description": [
+            "Intel® Core™ Ultra 9 Processor 275HX 2.7 GHz",
+            "NVIDIA® GeForce RTX™ 5070 Ti Laptop GPU 12GB GDDR7",
+            "1TB PCIe® 4.0 NVMe™ M.2 SSD"
+        ]
     }
 ]
